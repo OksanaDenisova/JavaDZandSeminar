@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5ad07d90-75eb-4e0a-90bf-b964a1d487ca" name="Changes" comment="домашка 3">
-      <change afterPath="$PROJECT_DIR$/src/Homework4.java" afterDir="false" />
+    <list default="true" id="5ad07d90-75eb-4e0a-90bf-b964a1d487ca" name="Changes" comment="домашка 4">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -90,13 +89,21 @@
       <option name="project" value="LOCAL" />
       <updated>1688659996508</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="домашка 4">
+      <created>1688821858426</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1688821858426</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="домашка 1" />
     <MESSAGE value="домашка 2" />
     <MESSAGE value="домашка 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="домашка 3" />
+    <MESSAGE value="домашка 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="домашка 4" />
   </component>
 </project>
