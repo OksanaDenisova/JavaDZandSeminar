@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5ad07d90-75eb-4e0a-90bf-b964a1d487ca" name="Changes" comment="домашка 4">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="5ad07d90-75eb-4e0a-90bf-b964a1d487ca" name="Changes" comment="домашка 5" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -96,7 +94,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688821858426</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="домашка 5">
+      <created>1689012961262</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1689012961263</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -104,6 +109,7 @@
     <MESSAGE value="домашка 2" />
     <MESSAGE value="домашка 3" />
     <MESSAGE value="домашка 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="домашка 4" />
+    <MESSAGE value="домашка 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="домашка 5" />
   </component>
 </project>
